@@ -1,0 +1,7 @@
+Design:
+
+1 main class
+1. Application - This is the Disk Scheduler application
+	- void fcfs() Utilizes fcfs disk scheduling algorithm 
+	- void sstf() Utilizes sstf disk scheduling algorithm
+	- void scan() Utilizes scan disk scheduling algorithm

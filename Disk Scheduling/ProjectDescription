@@ -1,0 +1,12 @@
+Authors: Adebowale Ojetola, Chuma Okoro.
+
+We both worked on the logic as well as the documentation
+
+#HW4
+The problem statement was to write a program that serviced a disk with 5,000 cylinders.
+We will be testing this by generating a random series of 50 requests and servicing them with each of the 3 algorithms we chose
+
+The program will be passed the initial position of the disk head as a parameter on the 
+command line and report the total amount of head movement required for each algorithm.
+ 
+There were no assumptions made for this HW yet
